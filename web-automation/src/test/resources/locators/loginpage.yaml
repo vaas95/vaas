@@ -1,0 +1,46 @@
+elements:
+  signInBtn:
+    en_US:
+      web: css=.nav-link[href='/login']
+  email:
+    en_US:
+      web: css=#userNameOrEmail
+  password:
+    en_US:
+      web: css=#password
+  submitButton:
+    en_US:
+      web: css=button[type='submit']
+  cartBtn:
+    en_US:
+      web: xpath=//h1[normalize-space()='Latest Products']
+  pdpPage:
+    en_US:
+      web: xpath=(//img[@class='card-img-top'])[1]
+  bookStoreImg:
+    en_US:
+      web: //a[@class="bookstore-brand active navbar-brand"]
+  registerUser:
+    en_US:
+      web: //a[text()="Register"]
+  signUp:
+    en_US:
+      web: //h1[text()="Sign Up"]
+  userName:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/form/div/label/following-sibling::*[@id="userName"]
+  firstName:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/form/div/label/following-sibling::*[@id="firstName"]
+  emailId:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/form/div/label/following-sibling::*[@id="email"]
+  passWord:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/form/div/label/following-sibling::*[@id="password"]
+  confirmPassword:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/form/div/label/following-sibling::*[@placeholder="Confirm Password"]
+  registerConfirm:
+    en_US:
+      web: //button[contains(text(),"Register")]

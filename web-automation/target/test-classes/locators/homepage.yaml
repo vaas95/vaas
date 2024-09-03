@@ -1,0 +1,22 @@
+elements:
+  homePage1:
+    en_US:
+      web: //a[@class="bookstore-brand active navbar-brand"]
+  productSelection1:
+    en_US:
+      web: //a[@href="/product/1"]/child::img
+  productOne:
+    en_US:
+      web: //div[@class="row"]/child::div[2]
+  productTwo:
+    en_US:
+      web: //div[@class="row"]/child::div[3]
+  logoutButton:
+    en_US:
+      web: //a[@aria-expanded="false"]
+  logoutButton2:
+    en_US:
+      web: //a[contains(text(),"Logout")]
+  productThree:
+    en_US:
+      web: //div[@class="row"]/child::div[4]

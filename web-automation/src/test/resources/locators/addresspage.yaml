@@ -1,0 +1,36 @@
+elements:
+  addressSelect:
+    en_US:
+      web: //div[@class="input-group"]/div/div/input[1]
+  proceedCheckout:
+    en_US:
+      web: //button[contains(text(),"Proceed to Payment")]
+  newAddress1:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="addressLine1"]
+  newAddress2:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="addressLine2"]
+  newCity:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="city"]
+  newState:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="state"]
+  newCountry:
+    en_US:
+      web: //select[@id="country"]
+  newPostal:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="postalCode"]
+  newPhone:
+    en_US:
+      web: //div[@class="col"]/div/input[@id="phone"]
+  addAddress:
+    en_US:
+      web: //button[contains(text(),"Add New Address")]
+
+
+
+
+

@@ -1,0 +1,33 @@
+elements:
+  addressSelect:
+    en_US:
+      web: (//div[@class="form-check"]/child::input)[1]
+  paymentSelect:
+    en_US:
+      web: //div[@class="col-md-6 col-12"]/child::div/div/div/div[@class="form-check"]/input[@id="pm_1PU031G9R9y827ntt1pnmdLa"]
+  proceedOrder:
+    en_US:
+      web: //button[contains(text(),"Proceed to PlaceOrder")]
+  paymentPage:
+    en_US:
+      web: //h1[contains(text(),"Payment Method")]
+  cardNumber:
+    en_US:
+      web: //div[@class="col"]/form/div/input[@placeholder="Card Number"]
+  expMonth:
+    en_US:
+      web: //div[@class="col"]/form/div/input[@placeholder="Exp Month"]
+  expYear:
+    en_US:
+      web: //div[@class="col"]/form/div/input[@placeholder="Exp Year"]
+  expCvv:
+    en_US:
+      web: //div[@class="col"]/form/div/input[@placeholder="Cvv"]
+  addCard:
+    en_US:
+      web: //button[contains(text(),"Add Card")]
+
+
+
+
+
