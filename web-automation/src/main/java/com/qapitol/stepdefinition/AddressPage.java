@@ -21,14 +21,6 @@ public class AddressPage extends AbstractWebPage{
     public static final String New_Phone="newPhone";
     public static final String Add_Address="addAddress";
 
-
-
-
-
-
-
-
-
     @Step("Enter payment details and checkout")
     public void enterDetails()
     {
