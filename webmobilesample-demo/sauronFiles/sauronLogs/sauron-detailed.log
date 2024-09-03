@@ -1,0 +1,406 @@
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.CoreListener alter
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener alterTestNgSuite
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener alterTestNgSuite
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener alterTestNgSuite
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener alterTestNgSuite
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.CoreListener alter
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: ENTRY {}
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule configure
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule bindToPages
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule loadFromServiceLoader
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule loadFromServiceLoader
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule bindToPages
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.pages.PageModule configure
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: ENTRY locators\loginpage.yaml
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: ENTRY locators\addcasepage.yaml
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.CoreListener onStart
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: ENTRY org.testng.SuiteRunner@5b11a194
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: ENTRY {executionTimeout=10000, sessions=sessions.yaml, pagesPackage=com.qapitol.demo.stepdefinition}
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onStartSuite
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onStartSuite
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener onStartSuite
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener onStartSuite
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.CoreListener onStart
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.core.CoreListener onStart
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: ENTRY org.testng.TestRunner@24d4d7c9
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager addConfig
+FINER: ENTRY Souq tests com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager addConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.Config initConfig
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY SESSIONS
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN sessions.yaml
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: ENTRY sessions.yaml
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.utils.FileAssistant loadFile
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onSessionsConfigReceived
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onSessionsConfigReceived
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onStartTest
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: ENTRY APPIUM_DISABLE_LOCAL
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: RETURN false
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.AppiumServerManager startServer
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.AppiumServerManager initializeDevices
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.AppiumServerManager initializeDevices
+INFO: Initializing devices...
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.AppiumServerManager initializeDevices
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.LocalAppiumManager startAppiumServer
+INFO: com.qapitol.sauronStarting Appium Server on Localhost
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.appium.LocalAppiumManager getAppiumServerBuilder
+INFO: Picking Default Path for AppiumServiceBuilder
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onStartTest
+ALL: Failed to start Appium Server 
+io.appium.java_client.service.local.InvalidServerInstanceException: NodeJS is either not installed or its executable not present in PATH
+	at io.appium.java_client.service.local.AppiumServiceBuilder.validatePath(AppiumServiceBuilder.java:125)
+	at io.appium.java_client.service.local.AppiumServiceBuilder.findBinary(AppiumServiceBuilder.java:135)
+	at io.appium.java_client.service.local.AppiumServiceBuilder.findDefaultExecutable(AppiumServiceBuilder.java:177)
+	at io.appium.java_client.service.local.AppiumServiceBuilder.loadSystemProperties(AppiumServiceBuilder.java:405)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:504)
+	at com.qapitol.sauron.mobile.appium.LocalAppiumManager.startAppiumServer(LocalAppiumManager.java:77)
+	at com.qapitol.sauron.mobile.appium.AppiumServerManager.startServer(AppiumServerManager.java:70)
+	at com.qapitol.sauron.mobile.pages.SauronMobileListener.onStartTest(SauronMobileListener.java:81)
+	at com.qapitol.sauron.core.CoreListener.lambda$onStart$4(CoreListener.java:140)
+	at com.qapitol.sauron.core.CoreListener.callSauronCoreCallback(CoreListener.java:56)
+	at com.qapitol.sauron.core.CoreListener.onStart(CoreListener.java:139)
+	at com.qapitol.sauron.common.ListenerChain.onStart(ListenerChain.java:494)
+	at org.testng.TestRunner.fireEvent(TestRunner.java:959)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:629)
+	at org.testng.TestRunner.run(TestRunner.java:595)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onStartTest
+FINER: RETURN
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener onStartTest
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: ENTRY SELENIUM_DISABLE_LOCAL
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: RETURN false
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.SauronWebListener spawnSeleniumServer
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.grid.LocalGridManager spawnLocalHub
+FINER: ENTRY
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.grid.InstallHelper firstTimeSetup
+INFO: Setting up Sauron 4 for first time use...
+
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.grid.InstallHelper copyFileFromResources
+INFO: File copied to C:\Users\vasantha.raj\.sauron4\config\download.json
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.grid.InstallHelper copyFileFromResources
+INFO: File copied to C:\Users\vasantha.raj\.sauron4\config\SauronConfig.json
+Jul 04, 2024 5:15:53 AM com.qapitol.sauron.web.grid.GridServiceManager waitForInitialization
+FINER: ENTRY
+Jul 04, 2024 5:15:54 AM com.qapitol.sauron.web.grid.FileDownloader downloadAndExtractArtifacts
+FINER: ENTRY
+Jul 04, 2024 5:15:54 AM com.qapitol.sauron.web.grid.FileDownloader downloadFile
+INFO: Downloading from https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.10.0/selenium-server-4.10.0.jar with checksum f137ff40586118d5c8f00f40ab0a85f3[MD5]
+Jul 04, 2024 5:15:57 AM com.qapitol.sauron.web.grid.FileDownloader checkLocalFile
+INFO: checksum matched for C:\Users\vasantha.raj\.sauron4\selenium-server-4.10.0.jar
+Jul 04, 2024 5:15:57 AM com.qapitol.sauron.web.grid.FileDownloader downloadAndExtractArtifacts
+INFO: Files after download and extract: [C:\Users\vasantha.raj\.sauron4\selenium-server-4.10.0.jar]
+Jul 04, 2024 5:15:57 AM com.qapitol.sauron.web.grid.FileDownloader downloadAndExtractArtifacts
+FINER: RETURN
+Jul 04, 2024 5:15:57 AM com.qapitol.sauron.web.grid.InstallHelper createLoggingPropertiesFile
+INFO: Logger file created successfully. Path is C:\Users\vasantha.raj\.sauron4\config\logging.properties.hub
+Jul 04, 2024 5:15:57 AM com.qapitol.sauron.web.grid.AbstractBaseProcessLauncher startProcess
+INFO: Executing command [java, -Djava.util.logging.config.file=C:\Users\vasantha.raj\.sauron4\config\logging.properties.hub, -jar, C:\Users\vasantha.raj\.sauron4\selenium-server-4.10.0.jar, hub, -p, 44133]
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.AbstractBaseLauncher isRunning
+FINE: Response: {"value":{"ready":false,"message":"Selenium Grid not ready.","nodes":[]}}
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.GridServiceManager waitForInitialization
+FINER: RETURN
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.InstallHelper firstTimeSetup
+INFO: Verifying Sauron 4 installation...
+
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.InstallHelper copyFileFromResources
+INFO: File copied to C:\Users\vasantha.raj\.sauron4\config\download.json
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.InstallHelper copyFileFromResources
+INFO: File copied to C:\Users\vasantha.raj\.sauron4\config\SauronConfig.json
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.GridServiceManager waitForInitialization
+FINER: ENTRY
+Jul 04, 2024 5:16:01 AM com.qapitol.sauron.web.grid.InstallHelper createLoggingPropertiesFile
+INFO: Logger file created successfully. Path is C:\Users\vasantha.raj\.sauron4\config\logging.properties.node
+Jul 04, 2024 5:16:15 AM com.qapitol.sauron.web.grid.AbstractBaseLauncher getNodeProgramArguments
+INFO: This instance is considered a Sauron Grid Node
+Jul 04, 2024 5:16:15 AM com.qapitol.sauron.web.grid.AbstractBaseProcessLauncher startProcess
+INFO: Executing command [java, -Djava.util.logging.config.file=C:\Users\vasantha.raj\.sauron4\config\logging.properties.node, -Dwebdriver.ie.driver=C:\Users\vasantha.raj\.cache\selenium\IEDriverServer\win64\4.14.0\IEDriverServer.exe, -Dwebdriver.edge.driver=C:\Users\vasantha.raj\.cache\selenium\msedgedriver\win64\126.0.2592.87\msedgedriver.exe, -Dwebdriver.chrome.driver=C:\Users\vasantha.raj\.cache\selenium\chromedriver\win64\126.0.6478.126\chromedriver.exe, -Dphantomjs.binary.path=C:\Users\vasantha.raj\.sauron4\phantomjs.exe, -Dwebdriver.gecko.driver=C:\Users\vasantha.raj\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe, -jar, C:\Users\vasantha.raj\.sauron4\selenium-server-4.10.0.jar, node, -p, 32918, --grid-url, http://localhost:44133]
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.grid.AbstractBaseLauncher isRunning
+FINE: Response: {"value":{"ready":true,"message":"Ready","node":{"availability":"UP","externalUri":"http://192.168.2.27:32918","heartbeatPeriod":60000,"maxSessions":8,"nodeId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","osInfo":{"arch":"amd64","name":"Windows 11","version":"10.0"},"slots":[{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"4437d44c-1491-4fa7-b0c4-b5aeb8a1f3fb"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"c70cb7a3-a69e-48b4-83dc-064791ee5c42"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"b6287e81-2e03-47f0-8a8e-ab59f6270b4e"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"19662118-460f-49cc-b9aa-561ba9aa6c0f"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"25a46f7d-dca9-4469-b5db-b3be33761b3d"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"68710f1e-88bf-4498-8aca-a5f0d636f1ab"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"6df64e38-cd89-4fd2-bf70-3d1af1856a94"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"ab5559ff-950b-425a-b944-1825133ff538"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"384ba4f2-be31-407e-9125-c7cad1b47a98"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"8931a309-97c5-4d66-9401-07bcfa5eb066"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"599d57e8-4bfa-4c7b-9d1e-5756ff978a17"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"adbc45de-3b3e-464d-b4d9-86777257c037"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"eb02adad-2238-4f08-888b-356ef22dce14"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"98b7d46e-f19c-4e16-9f6c-b909f0c206a9"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"internet explorer","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"ebd84931-5c8f-41ca-886a-67fe2170769f"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"3d09d348-2ea9-4769-bccf-be3d1b875363"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"6acd8287-aaf0-4056-a35a-b94dc131bed5"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"af634bc9-9a5d-44aa-b245-71c82b7eade9"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"3916dd76-d6aa-4243-add7-5905dc062fa6"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"78637644-bba2-4a6e-a623-998d10872281"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"b989e5fa-32e6-4e4e-95ce-fab2fb2d0fca"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"9a295940-05df-476f-9dee-2e87b5b123cf"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"firefox","platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"047805a9-2528-432f-952b-aee983f89f3a"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"0b493c7b-1379-47da-bdf1-43d2f4a1cd91"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"MicrosoftEdge","ms:edgeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}},{"id":{"hostId":"e5566b1b-8a8f-41f9-ba4f-013edaff485b","id":"401f6267-45d3-4831-994d-741feec188ac"},"lastStarted":"1970-01-01T00:00:00Z","session":null,"stereotype":{"browserName":"chrome","goog:chromeOptions":{"args":["--remote-allow-origins=*"]},"platformName":"Windows 11"}}],"version":"4.10.0 (revision c14d967899)"}}}
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.grid.GridServiceManager waitForInitialization
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.grid.LocalGridManager spawnLocalHub
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener spawnSeleniumServer
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener onStartTest
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener onStart
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener beforeInvocation
+FINER: ENTRY CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] 177104018 [TestResult name=verifyCaseRegistration status=STARTED method=CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] output={null}] org.testng.TestRunner@24d4d7c9
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener initSessions
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.utils.TestNGUtils getInvokedMethodInformation
+FINER: ENTRY CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] 177104018 [TestResult name=verifyCaseRegistration status=STARTED method=CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] output={null}]
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.utils.TestNGUtils getInvokedMethodInformation
+FINER: RETURN InvokedMethodInformation [currentTestName=Souq tests, actualMethod=verifyCaseRegistration, currentMethodName=verifyCaseRegistration, methodParameters=[], testMethodAttributes={}, testResultSuccess=false, dependsOnMethods=[]]
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: ENTRY APPIUM_DISABLE_LOCAL
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getBooleanConfigProperty
+FINER: RETURN false
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY APPIUM_PROTOCOL
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY APPIUM_HOST
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY APPIUM_PORT
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.sessions.MobileTestSession createDriverUrl
+ALL: Failed to createDriverUrl 
+java.lang.NullPointerException: Cannot invoke "io.appium.java_client.service.local.AppiumDriverLocalService.getUrl()" because "com.qapitol.sauron.mobile.appium.LocalAppiumManager.appiumDriverLocalService" is null
+	at com.qapitol.sauron.mobile.appium.LocalAppiumManager.getAppiumUrl(LocalAppiumManager.java:35)
+	at com.qapitol.sauron.mobile.appium.LocalAppiumManager.getRemoteWDHubIP(LocalAppiumManager.java:52)
+	at com.qapitol.sauron.mobile.sessions.MobileTestSession.createDriverUrl(MobileTestSession.java:253)
+	at com.qapitol.sauron.mobile.sessions.MobileTestSession.saveSessionConfigData(MobileTestSession.java:124)
+	at com.qapitol.sauron.common.sessions.AbstractTestSession.<init>(AbstractTestSession.java:101)
+	at com.qapitol.sauron.common.sessions.AbstractTestSession.<init>(AbstractTestSession.java:84)
+	at com.qapitol.sauron.mobile.sessions.MobileTestSession.<init>(MobileTestSession.java:106)
+	at com.qapitol.sauron.mobile.pages.SauronMobileListener.createMobileTestSessions(SauronMobileListener.java:150)
+	at com.qapitol.sauron.mobile.pages.SauronMobileListener.initSessions(SauronMobileListener.java:100)
+	at com.qapitol.sauron.core.CoreListener.lambda$beforeInvocation$6(CoreListener.java:242)
+	at com.qapitol.sauron.core.CoreListener.callSauronCoreCallback(CoreListener.java:56)
+	at com.qapitol.sauron.core.CoreListener.beforeInvocation(CoreListener.java:241)
+	at com.qapitol.sauron.common.ListenerChain.beforeInvocation(ListenerChain.java:381)
+	at org.testng.internal.invokers.InvokedMethodListenerInvoker.invokeListener(InvokedMethodListenerInvoker.java:56)
+	at org.testng.internal.invokers.BaseInvoker.runInvokedMethodListeners(BaseInvoker.java:67)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:642)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:829)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+	at org.testng.TestNG.runSuites(TestNG.java:1099)
+	at org.testng.TestNG.run(TestNG.java:1067)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY MOBILE_APP_PATH
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY OTHER_APPS
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY PLATFORM_VERSION
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY DEVICE_NAME
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY BROWSER
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY ANDROID_APP_MAIN_ACTIVITY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY ANDROID_APP_PACKAGE
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: ENTRY Souq tests
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.ConfigManager getConfig
+FINER: RETURN com.qapitol.sauron.common.configuration.LocalConfig@3c435123
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: ENTRY UDID
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.common.configuration.LocalConfig getConfigProperty
+FINER: RETURN 
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.appium.AppiumServerManager getNextAvailableAndroidDevice
+INFO: Thread count greater than android devices
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener afterInvocation
+FINER: ENTRY CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] 177104018 [TestResult name=verifyCaseRegistration status=FAILURE method=CaseRegistrationTest.verifyCaseRegistration()[pri:0, instance:com.qapitol.demo.CaseRegistrationTest@a8e6492] output={null}] org.testng.TestRunner@24d4d7c9
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener finishSessions
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener finishSessions
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener finishSessions
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener finishSessions
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener afterInvocation
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.RetryAnalyzer retry
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.RetryAnalyzer retry
+FINE: RetryAnalyzer, Retrycount: 0
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.RetryAnalyzer retry
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener onFinish
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onFinishTest
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onFinishTest
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener onFinishTest
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener onFinishTest
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener onFinish
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener onFinish
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onFinishSuite
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.appium.AppiumServerManager stopServer
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.appium.AppiumServerManager stopServer
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.mobile.pages.SauronMobileListener onFinishSuite
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener onFinishSuite
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.grid.LocalGridManager shutDownHub
+FINER: ENTRY
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.grid.LocalGridManager shutDownHub
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.web.SauronWebListener onFinishSuite
+FINER: RETURN
+Jul 04, 2024 5:16:18 AM com.qapitol.sauron.core.CoreListener onFinish
+FINER: RETURN

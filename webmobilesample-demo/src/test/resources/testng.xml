@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="1" name="Souq">
+  <parameter name="sessions" value="sessions.yaml"/>
+  <parameter name="pagesPackage" value="com.qapitol.demo.stepdefinition"/>
+  <parameter name="executionTimeout" value="10000"/>
+
+  <test name="Souq tests">
+    <classes>
+      <class name="com.qapitol.demo.CaseRegistrationTest"/>
+    </classes>
+  </test>
+</suite>

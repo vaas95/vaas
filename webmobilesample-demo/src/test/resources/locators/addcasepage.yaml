@@ -1,0 +1,29 @@
+elements:
+  addCase:
+    en_US:
+      android: xpath=//android.widget.TextView[@text='Add Case']
+      web: xpath=//a[normalize-space()='Register new case']
+  title:
+    en_US:
+      android: xpath=//android.widget.EditText[@text='Give title']
+      web: xpath=//input[@placeholder='Case Title']
+  description:
+    en_US:
+      android: xpath=//android.widget.EditText[@text='Give description']
+      web: xpath=//textarea[@placeholder='Description']
+  value:
+    en_US:
+      android: xpath=//android.widget.EditText[@text='Give value']
+      web: xpath=//input[@placeholder='Value']
+  submit:
+    en_US:
+      android: xpath=//android.widget.TextView[@text='ADD CASE']
+      web: xpath=//button[@type='submit']
+  caseName:
+    en_US:
+      web: xpath=//p[normalize-space()="{0}"]
+      android: xpath=//android.widget.TextView[@text='{0}']
+  deleteCase:
+    en_US:
+      web: xpath=//ul//button[@type='button']
+      android: xpath=//android.widget.TextView[@text='']

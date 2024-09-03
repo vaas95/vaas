@@ -1,0 +1,9 @@
+elements:
+  loginId:
+    en_US:
+      android: xpath=//android.widget.EditText[@text='Login id']
+      web: xpath=//input[@placeholder='Your ID']
+  signInButton:
+    en_US:
+      android: xpath=//android.widget.TextView[@text='SIGN IN']
+      web: css=button[type='submit']

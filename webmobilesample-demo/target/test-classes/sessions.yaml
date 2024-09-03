@@ -1,0 +1,9 @@
+- name: "session_mobile_1"
+  local: true
+  platform: "android"
+  appPath: "src/test/resources/apk/betheheronew.apk"
+
+- name: "session_web_1"
+  local: true
+  platform: "chrome"
+  browserRunHeadless: false
