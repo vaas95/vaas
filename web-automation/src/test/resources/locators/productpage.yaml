@@ -1,0 +1,37 @@
+elements:
+  productPage:
+    en_US:
+      web: //h2[contains(text(),"Write a Customer Review")]
+  selectRating:
+    en_US:
+      web: //select[@id="rating"]
+  enterReview:
+    en_US:
+      web: //textarea[@id="reviewMessage"]
+  submitBtn:
+    en_US:
+      web: //button[@id="Review"]
+  successMsg:
+    en_US:
+      web: //div[contains(text(),"Review submitted successfully")]
+  userProfile:
+    en_US:
+      web: //a[@id="username"]
+  logoutBtn:
+    en_US:
+      web: //a[contains(text(),"Logout")]
+  addCart:
+    en_US:
+      web: //div[contains(text(),"Add to Cart")]
+  brandSign:
+    en_US:
+      web: //a[@class="bookstore-brand active navbar-brand"]
+  checkOut:
+    en_US:
+      web: //button[@class="btn-block btn btn-primary"]
+  proceedCheckOut:
+    en_US:
+      web: //button[contains(text(),"Proceed To Checkout")]
+
+
+

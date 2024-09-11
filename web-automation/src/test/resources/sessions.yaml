@@ -1,0 +1,13 @@
+- name: "session_web_1"
+  local: true
+  platform: "chrome"
+  browserHeight: 1920
+  browserWidth: 1080
+  browserRunHeadless: false
+
+- name: "session_web_2"
+  local: true
+  platform: "firefox"
+  browserHeight: 1920
+  browserWidth: 1080
+  browserRunHeadless: false

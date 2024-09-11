@@ -1,0 +1,6 @@
+com\qapitol\config\QAConfigInitializer.class
+com\qapitol\stepdefinition\AddressPage.class
+com\qapitol\stepdefinition\ProductPage.class
+com\qapitol\stepdefinition\PaymentPage.class
+com\qapitol\stepdefinition\HomePage.class
+com\qapitol\stepdefinition\LoginPage.class
